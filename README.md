@@ -68,15 +68,6 @@ I take messy, manually-managed cloud environments and turn them into **automated
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedArkidDev-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MedArkidDev-wq&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
 <p align="center">
   <strong>Ready to fix your infrastructure?</strong><br/>
   <a href="https://moarkid.com">View my work</a> · <a href="https://www.linkedin.com/in/mohamed-arkid">Connect on LinkedIn</a> · <a href="mailto:mohamed.arkid.dev@gmail.com">Email me</a>
