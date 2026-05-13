@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on my Next.js portfolio and blog ([chanhdai.com](https://chanhdai.com))
+- 🔭 I’m currently working on my Next.js portfolio and blog ([moarkid.com](https://moarkid.com))
 - 🌱 I’m currently deep-diving into **Kubernetes on Bare Metal** and **DevSecOps**
 - 🛠️ I love building robust internal developer tools and scalable CI/CD pipelines
 - 💬 Ask me about **DevOps, Next.js, TypeScript, and Infrastructure as Code**
