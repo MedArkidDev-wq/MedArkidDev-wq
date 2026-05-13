@@ -1,40 +1,83 @@
-<h1 align="center">Hi there, I'm Mohamed Arkid 👋</h1>
-
-<h3 align="center">DevOps Authority & Full-Stack Engineer</h3>
+<h1 align="center">Mohamed Arkid</h1>
+<h3 align="center">DevOps Engineer & Cloud Consultant</h3>
 
 <p align="center">
-  I specialize in building scalable infrastructure, secure container deployments, and high-performance web applications.
+  <strong>I help companies build automated, self-healing infrastructure and slash cloud costs.</strong>
+</p>
+
+<p align="center">
+  <a href="https://moarkid.com"><img src="https://img.shields.io/badge/Portfolio-moarkid.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-arkid"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohamed.arkid.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on my Next.js portfolio and blog ([moarkid.com](https://moarkid.com))
-- 🌱 I’m currently deep-diving into **Kubernetes on Bare Metal** and **DevSecOps**
-- 🛠️ I love building robust internal developer tools and scalable CI/CD pipelines
-- 💬 Ask me about **DevOps, Next.js, TypeScript, and Infrastructure as Code**
+### The Problem I Solve
 
-### 💻 Tech Stack
-**Infrastructure & DevOps:**
-<br/>
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+Most companies are bleeding money on broken infrastructure and slow deployments.
+I take messy, manually-managed cloud environments and turn them into **automated, self-healing systems** that work at 3 AM without waking anyone up.
 
-**Frontend & Full-Stack:**
-<br/>
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+> If your team is afraid to deploy on Fridays, your AWS bill keeps climbing, or your "monitoring" is someone checking Slack for complaints — **let's talk.**
 
-### 📈 GitHub Stats
+---
+
+### What I Deliver
+
+| Area | What You Get |
+|---|---|
+| **Cloud Infrastructure** | Production-grade AWS/Azure environments with Terraform — 100% reproducible, auditable, version-controlled |
+| **Kubernetes** | Bare-metal and managed K8s clusters built from scratch, tuned for your workload |
+| **CI/CD Pipelines** | GitOps pipelines that cut deployment time from hours to under 10 minutes |
+| **FinOps** | Cloud cost audits that find the hidden charges nobody noticed (like $15K/month NAT Gateways) |
+| **Observability** | Prometheus + Grafana stacks so your team catches issues before users do |
+| **Automation** | Zero-touch workflows (n8n, GitHub Actions) that save 15+ engineering hours per week |
+
+---
+
+### Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedArkidDev-wq&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedArkidDev-wq&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,gitlab,prometheus,grafana,python,java,postgres,linux,git,nginx&perline=8" alt="Tech Stack"/>
 </p>
 
 ---
-⭐️ *Building robust systems from code to cloud.*
+
+### Track Record
+
+**Phaxel** — DevOps Engineer
+- Architected AWS infrastructure for a high-volume EDI platform with sub-second API latency
+- Built production Kubernetes on VMware from scratch — **300% faster release velocity**
+- Automated CI/CD and monitoring with n8n — **saved 15+ hours/week of engineering toil**
+
+**BookAsfar** — DevOps Engineer
+- Designed GitOps pipelines (GitLab CI/CD + Docker) — **deployment time: hours to under 10 min**
+- Migrated all infrastructure to Terraform on AWS — 100% reproducible environments
+- Deployed Prometheus + Grafana for proactive incident response
+
+**AJICOD** — Software Engineer
+- Built high-performance REST APIs with Java Spring Boot + PostgreSQL
+- Championed Docker containerization for dev/staging parity
+
+---
+
+### Education
+
+- **M.Sc. Embedded Artificial Intelligence** — Universite Ibn Zohr
+- **B.Sc. Computer Software Engineering** — Universite Ibn Zohr
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MedArkidDev-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MedArkidDev-wq&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <strong>Ready to fix your infrastructure?</strong><br/>
+  <a href="https://moarkid.com">View my work</a> · <a href="https://www.linkedin.com/in/mohamed-arkid">Connect on LinkedIn</a> · <a href="mailto:mohamed.arkid.dev@gmail.com">Email me</a>
+</p>
