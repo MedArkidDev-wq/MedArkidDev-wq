@@ -43,31 +43,6 @@ I take messy, manually-managed cloud environments and turn them into **automated
 
 ---
 
-### Track Record
-
-**Phaxel** — DevOps Engineer
-- Architected AWS infrastructure for a high-volume EDI platform with sub-second API latency
-- Built production Kubernetes on VMware from scratch — **300% faster release velocity**
-- Automated CI/CD and monitoring with n8n — **saved 15+ hours/week of engineering toil**
-
-**BookAsfar** — DevOps Engineer
-- Designed GitOps pipelines (GitLab CI/CD + Docker) — **deployment time: hours to under 10 min**
-- Migrated all infrastructure to Terraform on AWS — 100% reproducible environments
-- Deployed Prometheus + Grafana for proactive incident response
-
-**AJICOD** — Software Engineer
-- Built high-performance REST APIs with Java Spring Boot + PostgreSQL
-- Championed Docker containerization for dev/staging parity
-
----
-
-### Education
-
-- **M.Sc. Embedded Artificial Intelligence** — Universite Ibn Zohr
-- **B.Sc. Computer Software Engineering** — Universite Ibn Zohr
-
----
-
 <p align="center">
   <strong>Ready to fix your infrastructure?</strong><br/>
   <a href="https://moarkid.com">View my work</a> · <a href="https://www.linkedin.com/in/mohamed-arkid">Connect on LinkedIn</a> · <a href="mailto:mohamed.arkid.dev@gmail.com">Email me</a>
